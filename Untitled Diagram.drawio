@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T09:36:47.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="g0djssJ5BKnxBz6CvJ1z" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T09:36:31.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="y-WI_oX0UgdNNHbaYtUl" version="23.1.6" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="V-o6IrvXHarWNvLIRAWG-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="140" width="1440" height="980" as="geometry" />
+          <mxGeometry x="157" y="140" width="1440" height="980" as="geometry" />
         </mxCell>
         <mxCell id="V-o6IrvXHarWNvLIRAWG-6" value="Use case diagram of Enterprise Resource Planning" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontStyle=1;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="150" y="1150" width="1450" height="60" as="geometry" />
@@ -39,7 +39,7 @@
         <mxCell id="hBCHNtJs0A2A4W39Nb5m-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="200" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V-o6IrvXHarWNvLIRAWG-18" value="Doubts Section" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="V-o6IrvXHarWNvLIRAWG-18" value="Doubts Section" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="209" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hBCHNtJs0A2A4W39Nb5m-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -51,7 +51,7 @@
         <mxCell id="hBCHNtJs0A2A4W39Nb5m-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="450" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V-o6IrvXHarWNvLIRAWG-20" value="Login / Register" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="V-o6IrvXHarWNvLIRAWG-20" value="Login / Register" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jZamUbzunlKy1R4ZV1XB-1" value="Fee Payment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
