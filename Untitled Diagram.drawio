@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T09:06:33.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="yqAclg1QilNVwbcDOrcm" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T09:08:33.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="cJvcTVlAqqgIKBqgbsR7" version="23.1.6" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="1500" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -22,23 +22,29 @@
         <mxCell id="hBCHNtJs0A2A4W39Nb5m-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="200" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V-o6IrvXHarWNvLIRAWG-18" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V-o6IrvXHarWNvLIRAWG-18" value="Doubts Section" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="255" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hBCHNtJs0A2A4W39Nb5m-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="340" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V-o6IrvXHarWNvLIRAWG-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V-o6IrvXHarWNvLIRAWG-19" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1400" y="570" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hBCHNtJs0A2A4W39Nb5m-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="450" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V-o6IrvXHarWNvLIRAWG-20" value="Login / Register" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V-o6IrvXHarWNvLIRAWG-20" value="Login / Register" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="900" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jZamUbzunlKy1R4ZV1XB-1" value="Fee Payment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hBCHNtJs0A2A4W39Nb5m-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="570" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jZamUbzunlKy1R4ZV1XB-2" value="View marks" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="506" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V-o6IrvXHarWNvLIRAWG-21" value="User Profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="900" width="120" height="80" as="geometry" />
