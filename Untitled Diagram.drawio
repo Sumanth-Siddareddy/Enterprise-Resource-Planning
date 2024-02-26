@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T09:45:24.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="5dNb478AblBLc1EeCRzy" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T09:46:04.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="TWusJ2jmtxiKJCDZhiyZ" version="23.1.6" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="2100" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="V-o6IrvXHarWNvLIRAWG-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="V-o6IrvXHarWNvLIRAWG-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="157" y="140" width="1440" height="980" as="geometry" />
         </mxCell>
         <mxCell id="V-o6IrvXHarWNvLIRAWG-6" value="Use case diagram of Enterprise Resource Planning" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontStyle=1;fontSize=40;strokeWidth=2;" parent="1" vertex="1">
@@ -258,19 +258,19 @@
         <mxCell id="cRJBDQuy2q4eRZoE2DI2-6" value="Register" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="1010" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cRJBDQuy2q4eRZoE2DI2-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.975;exitY=0.397;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cRJBDQuy2q4eRZoE2DI2-6" target="V-o6IrvXHarWNvLIRAWG-21">
+        <mxCell id="cRJBDQuy2q4eRZoE2DI2-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.975;exitY=0.397;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="cRJBDQuy2q4eRZoE2DI2-6" target="V-o6IrvXHarWNvLIRAWG-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="980" as="sourcePoint" />
             <mxPoint x="650" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cRJBDQuy2q4eRZoE2DI2-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="V-o6IrvXHarWNvLIRAWG-15" target="V-o6IrvXHarWNvLIRAWG-20">
+        <mxCell id="cRJBDQuy2q4eRZoE2DI2-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="V-o6IrvXHarWNvLIRAWG-15" target="V-o6IrvXHarWNvLIRAWG-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="860" as="sourcePoint" />
             <mxPoint x="790" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cRJBDQuy2q4eRZoE2DI2-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="cRJBDQuy2q4eRZoE2DI2-6">
+        <mxCell id="cRJBDQuy2q4eRZoE2DI2-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="cRJBDQuy2q4eRZoE2DI2-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="940" as="sourcePoint" />
             <mxPoint x="197" y="898" as="targetPoint" />
