@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T08:48:49.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="qRj0tTPRCpLzq9uQ_WiG" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T08:56:17.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="uaLzYKz5vep3xuXDrVxf" version="23.1.6" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="2820" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3760" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -10,14 +10,14 @@
         <mxCell id="V-o6IrvXHarWNvLIRAWG-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="150" y="1150" width="1450" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V-o6IrvXHarWNvLIRAWG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V-o6IrvXHarWNvLIRAWG-14" target="V-o6IrvXHarWNvLIRAWG-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="V-o6IrvXHarWNvLIRAWG-14" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="60" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="V-o6IrvXHarWNvLIRAWG-14" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="610" width="60" height="110" as="geometry" />
+        <mxCell id="V-o6IrvXHarWNvLIRAWG-15" value="Teacher" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="50" y="900" width="60" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="V-o6IrvXHarWNvLIRAWG-15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="890" width="60" height="110" as="geometry" />
+        <mxCell id="V-o6IrvXHarWNvLIRAWG-17" value="Management" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1660" y="570" width="70" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
