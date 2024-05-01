@@ -1,7 +1,7 @@
 # Enterprise-Resource-Planning
 Software engineering project (Team Project).
 
-RollNo format : 
+# RollNo format : 
     SA - Spark Academy
     SA3924xxxx for students
      - 39 for students
