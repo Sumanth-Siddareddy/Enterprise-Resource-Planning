@@ -9,6 +9,10 @@ Software engineering project (Team Project).
     SA2520xxxx for teachers
      - 25 for teachers
      - 20 thier joining year
+
+    For students and teacher 3rd, 4th digit from las represents class
+    like - SA39240301 : 03 student belongs to class 3 & 01 1st student in the 3rd class
+         - SA25240305 : 03 represents he/she is the class teahcer of class 3
     SA1401xxxx for management
      - 14 for management
      - 01 school estabilshed (2001)
