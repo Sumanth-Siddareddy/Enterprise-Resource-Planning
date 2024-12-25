@@ -1,4 +1,8 @@
-# Enterprise-Resource-Planning
+# School ERP System
+ • Implemented secure user authentication mechanisms using Passport.js and bcrypt, with RDBMS using PostgreSQL.
+ • Helpful to students access to view fee dues, attendance records, and exam marks.
+ • Helpful to teachers managing student’s attendance and grades of the entire class.
+ • Helpful to management to track the academic performance of students of a particular class.
 Software engineering project (Team Project).
 
 # RollNo format : 
